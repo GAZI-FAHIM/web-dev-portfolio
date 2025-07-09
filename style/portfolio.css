@@ -45,6 +45,23 @@ nav ul li{
     
 }
 
+.about-title{
+    font-weight: bold;
+    font-size: 35px;
+    text-align: center;
+}
+
+.about-description{
+    font-size: 18px;
+}
+
+.common-color{
+    color: #757575;
+}
+
+.background-bg{
+    background-color: #FFF8F3;
+}
 nav ul{
     display: flex;
     align-items: center;
@@ -82,4 +99,23 @@ nav li a{
 .banner-pic{
     width: 584;
     height: 676;
+}
+
+.about{
+    padding: 130px 156px;
+}
+
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+    margin-top: 200px;
+}
+
+.item-description{
+    font-weight: bold;
+}
+
+.about1{
+    display: flex;
+    justify-content: space-around;
 }
